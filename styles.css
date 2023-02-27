@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+.gaurav {
+	background-color: lightblue;
+	widht: 300px;
+	padding: 50px;
+	border: 50px solid blue;
+	margin: 20px;
+}
