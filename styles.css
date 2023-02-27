@@ -1,6 +1,7 @@
 
 /* Your CSS Code here. */
 .gaurav {
+	display: inline-block;
 	background-color: lightblue;
 	widht: 300px;
 	padding: 50px;
